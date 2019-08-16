@@ -1,0 +1,1 @@
+organizar cada item em funções
